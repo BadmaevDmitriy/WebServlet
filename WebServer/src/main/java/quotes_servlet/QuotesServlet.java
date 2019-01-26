@@ -1,4 +1,4 @@
-package com.QuotesServlet;
+package quotes_servlet;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
